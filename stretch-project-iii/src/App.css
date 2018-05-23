@@ -1,0 +1,24 @@
+
+h1{
+  text-align: center;
+  color: purple;
+}
+.testButton{
+  text-align: center;
+}
+button{
+    color: red;
+}
+.classList{
+  text-align: center;
+  list-style-type: none;
+
+}
+#heading{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.paragraph{
+  text-align: left;
+  margin: 10px 100px 10px 100px;
+}
